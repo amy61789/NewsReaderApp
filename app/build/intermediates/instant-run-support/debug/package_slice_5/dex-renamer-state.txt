@@ -1,0 +1,4 @@
+#Tue May 16 14:24:45 PDT 2017
+base.0=C\:\\Users\\amy61\\Desktop\\HM_ch09_ex4_NewsReader\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\amy61\\Desktop\\HM_ch09_ex4_NewsReader\\HM_ch09_ex4_NewsReader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
